@@ -8,6 +8,9 @@
 
 [project]
 
+repo_url = "https://github.com/flowinho/zensical-website"
+repo_name = "flowinho/zensical-website"
+
 # The site_name is shown in the page header and the browser window title
 #
 # Read more: https://zensical.org/docs/setup/basics/#site_name
@@ -17,7 +20,7 @@ site_name = "Florian Schuttkowski"
 # meaningful description of the site content for use by search engines.
 #
 # Read more: https://zensical.org/docs/setup/basics/#site_description
-site_description = "A new project generated from the default template project."
+site_description = ""
 
 # The site_author attribute. This is used in the HTML head element.
 #
@@ -316,9 +319,13 @@ accent = "pink"
 # ----------------------------------------------------------------------------
 # The "extra" section contains miscellaneous settings.
 # ----------------------------------------------------------------------------
-#[[project.extra.social]]
-#icon = "fontawesome/brands/github"
-#link = "https://github.com/user/repo"
-
 [project.extra]
 generator = false
+
+[[project.extra.social]]
+icon = "fontawesome/brands/github"
+link = "https://github.com/flowinho"
+
+[[project.extra.social]]
+icon = "fontawesome/brands/mastodon"
+link = "https://chaos.social/@flowinho"
