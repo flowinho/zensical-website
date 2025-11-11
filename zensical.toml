@@ -72,7 +72,8 @@ copyright = "Copyright &copy; 2025 Florian Schuttkowski"
 # Section for configuring theme options
 # ----------------------------------------------------------------------------
 
-
+[project.theme.icon]
+logo = "lucide/coffee"
 
 
 # change this to "classic" to use the traditional Material for MkDocs look.
