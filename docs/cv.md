@@ -4,6 +4,16 @@ icon: lucide/file-user
 
 # CV
 
+## Florian Schuttkowski
+
+<div class="font-reset">
+floːriːaːn ʃʊtkoːfskɪ (de-DE)  <br />
+flɒɹiːɑːn ʃʊətkɒfskiː (en-UK)  <br />
+フロリアン シュウトコフスキー 
+</div>
+
+---
+
 !!! note "Geschäftliche Kontaktinformationen"
 
     Florian Schuttkowski  
@@ -13,6 +23,8 @@ icon: lucide/file-user
 
     florian dot schuttkowski at teaminternet dot com
 
+---
+
 ## Arbeitserfahrung
 
 - Product Owner für die [Team Internet AG](https://www.teaminternet.de/de). 2025-Heute
@@ -21,6 +33,8 @@ icon: lucide/file-user
 - Technical Director & Software Engineer für mobile Anwendungen und Videospiele bei [Zeitland media and games GmbH](https://zeitland.com/). 2014-2017
 - Selbstständiger iOS App-Entwickler bei Florian Schuttkowski Software Development. 2013-2014
 - Studentischer Game Developer und UI Consultant für die [Filmakademie Baden-Württemberg](https://www.filmakademie.de/en/start). 2012-2013
+
+---
 
 ## Kenntnisse
 
@@ -38,6 +52,8 @@ icon: lucide/file-user
 - :material-earth: __Sprachen:__ Deutsch, Englisch
 </div>
 
+---
+
 ## Ausbildung
 
 - **BS**, [RWU Hochschule Ravensburg-Weingarten](https://www.rwu.de/). 2013
@@ -45,6 +61,8 @@ icon: lucide/file-user
     - Thesis: Scrum: the Do’s and Don’ts of agile Software Development
     - Gründungsmitglied der Mobile Application Development Group
     - Sprecher bei “Nacht der Informatik”
+
+---
 
 ## Berufliche und sonstige Aktivitäten
 
