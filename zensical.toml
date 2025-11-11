@@ -33,9 +33,7 @@ site_author = "Florian Schuttkowski"
 # fragment.
 #
 # Read more: https://zensical.org/docs/setup/basics/#copyright
-copyright = """
-Copyright &copy; 2025 Florian Schuttkowski
-"""
+copyright = "Copyright &copy; 2025 Florian Schuttkowski"
 
 # Zensical supports both implicit navigation and explicitly defined navigation.
 # If you decide not to define a navigation here then Zensical will simply
@@ -70,7 +68,9 @@ Copyright &copy; 2025 Florian Schuttkowski
 # ----------------------------------------------------------------------------
 # Section for configuring theme options
 # ----------------------------------------------------------------------------
-[project.theme]
+
+
+
 
 # change this to "classic" to use the traditional Material for MkDocs look.
 #variant = "classic"
@@ -257,15 +257,32 @@ features = [
 # Read more:
 # - https://zensical.org/docs/setup/colors/
 # ----------------------------------------------------------------------------
+# Palette toggle for automatic mode
 [[project.theme.palette]]
+media = "(prefers-color-scheme)"
+toggle.icon = "lucide/sun-moon"
+toggle.name = "Zum hellen Modus wechseln"
+primary = "pink"
+accent = "pink"
+
+# Palette toggle for light mode
+[[project.theme.palette]]
+media = "(prefers-color-scheme: light)"
 scheme = "default"
 toggle.icon = "lucide/sun"
 toggle.name = "Zum dunklen Modus wechseln"
+primary = "pink"
+accent = "pink"
 
+# Palette toggle for dark mode
 [[project.theme.palette]]
+media = "(prefers-color-scheme: dark)"
 scheme = "slate"
 toggle.icon = "lucide/moon"
-toggle.name = "Zum hellen Modus wechseln"
+toggle.name = "Basierend auf System wählen"
+primary = "pink"
+accent = "pink"
+
 
 # ----------------------------------------------------------------------------
 # In the "font" subsection you can configure the fonts used. By default, fonts
