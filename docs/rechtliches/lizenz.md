@@ -1,6 +1,8 @@
 ---
 title: Lizensierung
 icon: lucide/file-pen-line
+hide:
+- footer
 ---
 
 ## Quellcode dieser Website
