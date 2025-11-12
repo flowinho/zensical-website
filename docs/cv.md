@@ -1,5 +1,6 @@
 ---
 icon: lucide/file-user
+title: CV
 ---
 
 # CV
