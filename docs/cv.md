@@ -1,6 +1,8 @@
 ---
 icon: lucide/file-user
 title: CV
+hide:
+  - footer
 ---
 
 # CV

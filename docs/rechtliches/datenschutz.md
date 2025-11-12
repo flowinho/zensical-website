@@ -1,5 +1,7 @@
 ---
 icon: lucide/scale
+hide:
+  - footer
 ---
 
 # Datenschutzerklärung

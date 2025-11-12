@@ -1,5 +1,7 @@
 ---
 icon: lucide/section
+hide:
+  - footer
 ---
 
 # Impressum
