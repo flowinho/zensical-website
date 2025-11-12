@@ -36,7 +36,7 @@ site_author = "Florian Schuttkowski"
 # fragment.
 #
 # Read more: https://zensical.org/docs/setup/basics/#copyright
-copyright = "Copyright &copy; 2025 Florian Schuttkowski"
+copyright = "Copyright &copy; 2025 Florian Schuttkowski - Inhalte: CC BY-NC-SA 4.0, Code: GPLv3"
 
 # Zensical supports both implicit navigation and explicitly defined navigation.
 # If you decide not to define a navigation here then Zensical will simply
