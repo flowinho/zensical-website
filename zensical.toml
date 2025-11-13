@@ -77,7 +77,7 @@ logo = "lucide/coffee"
 
 [project.theme]
 language = "de"
-#custom_dir = "overrides"
+custom_dir = "overrides"
 
 
 
