@@ -30,7 +30,7 @@ site_author = "Florian Schuttkowski"
 # The site_url is the canonical URL for your site. When building online
 # documentation you should set this.
 # Read more: https://zensical.org/docs/setup/basics/#site_url
-#site_url = "https://florianschuttkowski.com/"
+site_url = "https://florianschuttkowski.com/"
 
 # The copyright notice appears in the page footer and can contain an HTML
 # fragment.
@@ -334,3 +334,8 @@ link = "https://github.com/flowinho"
 [[project.extra.social]]
 icon = "fontawesome/brands/mastodon"
 link = "https://chaos.social/@flowinho"
+
+[project.markdown_extensions.pymdownx.superfences]
+custom_fences = [
+  { name = "mermaid", class = "mermaid", format = "pymdownx.superfences.fence_code_format" }
+]
