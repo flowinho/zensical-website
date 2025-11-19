@@ -26,4 +26,3 @@ Ich wünsche mir, dass Personen, die den von mir hinzugefügten Code übernehmen
     Die Inhalte dieser Website sind lizensiert unter der `Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International`.
 
     [Link zur Lizenz](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en)
-
