@@ -5,6 +5,12 @@ hide:
 - footer
 ---
 
+## Impressum und Datenschutz
+
+!!! danger „Urheberrechtlich geschützt“
+
+    Impressum und Datenschutzerklärung sind gekaufte Rechtstexte und unterliegen einem besonderen Schutz. Die Wiederverwendung ist ausdrücklich untersagt.
+
 ## Quellcode dieser Website
 
 !!! abstract "GNU GPLv3"
