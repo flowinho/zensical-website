@@ -53,6 +53,7 @@ flɒɹiːɑːn ʃʊətkɒfskiː (en-UK)  <br />
 - :material-monitor-dashboard: __Software-Entwicklung:__ MS Azure DevOps, GitHub Actions, App Distribution, Xcode, VSCode, GIT
 - :material-code-braces: __Programmiersprachen:__ Swift, Objective-C, Markdown, Mermaid, YAML, LaTeX, CSS, JSON / XML
 - :material-earth: __Sprachen:__ Deutsch, Englisch
+ 
 </div>
 
 ---
