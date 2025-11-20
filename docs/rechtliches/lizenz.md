@@ -7,7 +7,7 @@ hide:
 
 ## Impressum und Datenschutz
 
-!!! danger „Urheberrechtlich geschützt“
+!!! danger "Urheberrechtlich geschützt"
 
     Impressum und Datenschutzerklärung sind gekaufte Rechtstexte und unterliegen einem besonderen Schutz. Die Wiederverwendung ist ausdrücklich untersagt.
 
