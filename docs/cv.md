@@ -50,7 +50,7 @@ flɒɹiːɑːn ʃʊətkɒfskiː (en-UK)  <br />
 - :material-crowd: __Organisation & Zusammenarbeit:__ Jira, Confluence, Notion, Trello, Miro, MS365
 - :material-cloud-cog-outline: __Backend-Anbindung:__ SSO, Evaluierung von Rest-Schnittstellen, Contract Development
 - :material-human-edit: __Paradigmen:__ Clean Code, ARC42, Semantic Versioning
-- :material-monitor-dashboard: __Software-Entwicklung:__ MS Azure DevOps, GitHub Actions, App Distribution, Xcode, VSCode, GIT
+- :material-monitor-dashboard: __Software-Entwicklung:__ MS Azure DevOps, GitHub Actions, App Distribution, Xcode, VSCode, GIT, Material for MkDocs, Zensical
 - :material-code-braces: __Programmiersprachen:__ Swift, Objective-C, Markdown, Mermaid, YAML, LaTeX, CSS, JSON / XML
 - :material-earth: __Sprachen:__ Deutsch, Englisch
  
