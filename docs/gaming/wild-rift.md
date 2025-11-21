@@ -9,8 +9,6 @@ hide:
 
 ## Stats pro Lane
 
-<div class="grid" markdown>
-
 ```mermaid
 pie 
     "ADC" : 5
@@ -28,8 +26,6 @@ radar-beta
   max 50
   min 0
 ```
-
-</div>
 
 ## Champion-Verteilung pro Lane
 
