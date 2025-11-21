@@ -5,9 +5,9 @@ hide:
 - footer
 ---
 
+## Wild Rift Ranked Season 19
 
-
-## Stats pro Lane
+### Stats pro Lane
 
 <div class="grid" markdown>
 
@@ -38,7 +38,7 @@ radar-beta
 
 </div>
 
-## Win-Loss pro Lane
+### Win-Loss pro Lane
 
 ```mermaid
 ---
@@ -56,7 +56,7 @@ radar-beta
   min 0
 ```
 
-## Champion-Verteilung pro Lane
+### Champion-Verteilung pro Lane
 
 ```mermaid
 sankey-beta
