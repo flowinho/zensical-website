@@ -9,6 +9,9 @@ hide:
 
 ## Stats pro Lane
 
+<div class="grid" markdown>
+
+
 ```mermaid
 pie 
     "ADC" : 5
@@ -17,6 +20,12 @@ pie
 ```
 
 ```mermaid
+---
+config:
+  radar:
+    width: 300
+    height: 300
+---
 radar-beta
   axis k["Kills"], d["Deaths"], a["Assists"]
   curve a["ADC"]{44, 23, 39}
@@ -26,6 +35,8 @@ radar-beta
   max 50
   min 0
 ```
+
+</div>
 
 ## Champion-Verteilung pro Lane
 
