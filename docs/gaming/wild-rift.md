@@ -5,7 +5,11 @@ hide:
 - footer
 ---
 
-## Spiele pro Lane
+
+
+## Stats pro Lane
+
+<div class="grid" markdown>
 
 ```mermaid
 pie 
@@ -13,8 +17,6 @@ pie
     "Mid" : 1
     "Support" : 1
 ```
-
-## KDA pro Lane
 
 ```mermaid
 radar-beta
@@ -26,6 +28,8 @@ radar-beta
   max 50
   min 0
 ```
+
+</div>
 
 ## Champion-Verteilung pro Lane
 
