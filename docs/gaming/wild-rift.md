@@ -5,6 +5,36 @@ hide:
 - footer
 ---
 
+## Allgemein
+
+### Die KDA Ratio berechnen
+
+Formel um die KDA Ratio zu berechnen:
+
+$$
+r=\frac{k+a}{d}
+$$
+
+#### Beispielrechnungen
+
+Ein ADC performed mit 14 Kills, 3 Deaths und 10 Assists, seine KDA liegt bei 8.0:
+
+$$
+\frac{14+10}{3}=8.0
+$$
+
+Ein Supp performed mit 1 Kill, 4 Deaths und 17 Assists, seine KDA liegt bei 4.5:
+
+$$
+\frac{1+17}{4}=4.5
+$$
+
+Bei einem Jungler läuft es sehr schlecht, er beendet das Game mit 2 Kills, 7 Deaths, und 4 Assists:
+
+$$
+\frac{2+6}{7}=0.85
+$$
+
 ## Wild Rift Ranked Season 19
 
 ### Tabellarische Übersicht
@@ -16,12 +46,6 @@ hide:
 |Mid   |2   |6    |6     |1.4  |
 |Jungle|0   |0    |0     |0.0  |
 |Top   |0   |0    |0     |0.0  |
-
-Formel um die KDA Ratio zu berechnen:
-
-$$
-r=\frac{k+a}{d}
-$$
 
 
 ### Stats pro Lane
