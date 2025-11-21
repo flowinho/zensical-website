@@ -44,8 +44,8 @@ radar-beta
 ---
 config:
   radar:
-    width: 300
-    height: 300
+    width: 250
+    height: 250
 ---
 radar-beta
   axis a["ADC"], s["Supp"], m["Mid"], j["Jungle"], t["Top"]
