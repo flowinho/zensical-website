@@ -41,6 +41,12 @@ radar-beta
 ## Win-Loss pro Lane
 
 ```mermaid
+---
+config:
+  radar:
+    width: 300
+    height: 300
+---
 radar-beta
   axis a["ADC"], s["Supp"], m["Mid"], j["Jungle"], t["Top"]
   curve w["Win"]{5, 1, 0, 0, 0}
