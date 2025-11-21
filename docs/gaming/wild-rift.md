@@ -16,27 +16,39 @@ hide:
 pie 
     "ADC" : 5
     "Mid" : 1
-    "Support" : 1
+    "Supp" : 1
 ```
 
 ```mermaid
 ---
 config:
   radar:
-    width: 300
-    height: 300
+    width: 250
+    height: 250
 ---
 radar-beta
   axis k["Kills"], d["Deaths"], a["Assists"]
   curve a["ADC"]{44, 23, 39}
   curve m["Mid"]{2, 6, 6}
-  curve s["Support"]{0, 2, 16}
+  curve s["Supp"]{0, 2, 16}
 
-  max 50
+  max 45
   min 0
 ```
 
 </div>
+
+## Win-Loss pro Lane
+
+```mermaid
+radar-beta
+  axis a["ADC"], s["Supp"], m["Mid"], j["Jungle"], t["Top"]
+  curve w["Win"]{4, 1, 0, 0, 0}
+  curve l["Loss"]{2, 0, 1, 0, 0}
+
+  max 5
+  min 0
+```
 
 ## Champion-Verteilung pro Lane
 
