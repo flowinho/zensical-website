@@ -1,5 +1,6 @@
 ---
 title: "LoL: Wild Rift"
+icon: lucide/swords
 hide:
 - footer
 ---
