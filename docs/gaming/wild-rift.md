@@ -79,15 +79,15 @@ radar-beta
 
 ```mermaid
 gantt
-    title KDA Ratio
+    title KDA Ratio (rounded down)
     dateFormat X
     axisFormat %s
     section ADC
-    3.26   : 0, 3.26
+    3   : 0, 3
     section Supp
     8   : 0, 8
     section Mid
-    1.4   : 0, 1.4
+    1   : 0, 1
     section Jungle
     0    : 0, 0
     section Top
