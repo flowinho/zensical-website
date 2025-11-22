@@ -77,6 +77,23 @@ radar-beta
   min 0
 ```
 
+```mermaid
+gantt
+    title KDA Ratio
+    dateFormat X
+    axisFormat %s
+    section ADC
+    3.26   : 0, 3.26
+    section Supp
+    8   : 0, 8
+    section Mid
+    1.4   : 0, 1.4
+    section Jungle
+    0    : 0, 0
+    section Top
+    0    : 0, 0
+```
+ 
 </div>
 
 ### Win-Loss pro Lane
