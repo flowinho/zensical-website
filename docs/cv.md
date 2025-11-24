@@ -41,20 +41,16 @@ flɒɹiːɑːn ʃʊətkɒfskiː (en-UK)  <br />
 
 ## Kenntnisse
 
-<div class="grid cards" markdown>
-
-- :material-button-pointer: __Plattformen:__ iPhoneOS, iPadOS, Apple CarPlay (Konzeption)
-- :material-pencil-ruler: __Thematischer Fokus:__ Architektur, Testbarkeit, Testkonzeption, Datensparsamkeit
-- :material-relation-zero-or-many-to-one-or-many: __Software-Architekturen:__ MVP, MVC, V.I.P.E.R, MVVM (Layered), Modularisierung, Micro-Services
-- :material-account-group: __Agile Arbeitsweise:__ SAFe, Scrum, KanBan, Inspect & Adapt, Cross-functional feature teams
-- :material-crowd: __Organisation & Zusammenarbeit:__ Jira, Confluence, Notion, Trello, Miro, MS365
-- :material-cloud-cog-outline: __Backend-Anbindung:__ SSO, Evaluierung von Rest-Schnittstellen, Contract Development
-- :material-human-edit: __Paradigmen:__ Clean Code, ARC42, Semantic Versioning
-- :material-monitor-dashboard: __Software-Entwicklung:__ MS Azure DevOps, GitHub Actions, App Distribution, Xcode, VSCode, Zensical (früher Material for MKDocs)
-- :material-code-braces: __Programmiersprachen:__ Swift, Objective-C, Markdown, Mermaid, YAML, LaTeX, CSS, JSON / XML
-- :material-earth: __Sprachen:__ Deutsch, Englisch
- 
-</div>
+- __Plattformen:__ iPhoneOS, iPadOS, Apple CarPlay (Konzeption)
+- __Thematischer Fokus:__ Architektur, Testbarkeit, Testkonzeption, Datensparsamkeit
+- __Software-Architekturen:__ MVP, MVC, V.I.P.E.R, MVVM (Layered), Modularisierung, Micro-Services
+- __Agile Arbeitsweise:__ SAFe, Scrum, KanBan, Inspect & Adapt, Cross-functional feature teams
+- __Organisation & Zusammenarbeit:__ Jira, Confluence, Notion, Trello, Miro, MS365
+- __Backend-Anbindung:__ SSO, Evaluierung von Rest-Schnittstellen, Contract Development
+- __Paradigmen:__ Clean Code, ARC42, Semantic Versioning
+- __Software-Entwicklung:__ MS Azure DevOps, GitHub Actions, App Distribution, Xcode, VSCode, Zensical (früher Material for MKDocs)
+- __Programmiersprachen:__ Swift, Objective-C, Markdown, Mermaid, YAML, LaTeX, CSS, JSON / XML
+- __Sprachen:__ Deutsch, Englisch
 
 ---
 
