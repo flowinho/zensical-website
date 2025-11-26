@@ -75,7 +75,9 @@ radar-beta
 
   max 70
   min 0
-```
+``` 
+</div>
+
 
 ```mermaid
 gantt
@@ -93,8 +95,6 @@ gantt
     section Top
     0    : 0, 0
 ```
- 
-</div>
 
 ### Win-Loss pro Lane
 
