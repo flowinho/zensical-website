@@ -75,7 +75,8 @@ extra_javascript = [
 ]
 
 extra_css = [
-    "https://unpkg.com/katex@0/dist/katex.min.css"
+    "https://unpkg.com/katex@0/dist/katex.min.css",
+    "stylesheets/extra.css"
 ]
 
 [project.markdown_extensions.pymdownx.arithmatex]
