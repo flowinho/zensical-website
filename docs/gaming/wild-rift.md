@@ -25,6 +25,7 @@ hide:
 
 ```mermaid
 pie 
+    title Lane-Verteilung alle Ranked Games
     "ADC" : 9
     "Mid" : 1
     "Supp" : 1
@@ -39,27 +40,17 @@ config:
     height: 250
 ---
 radar-beta
+  title Stats pro Lane
   axis k["Kills"], d["Deaths"], a["Assists"]
   curve a["ADC"]{77, 47,  65}
   curve m["Mid"]{2,   6,  6}
   curve s["Supp"]{0,  2,  16}
   curve t["Top"]{7,   3,  3}
+  curve j["Jungle"]{0, 0, 0 }
 
   max 80
   min 0
-``` 
-</div>
-
-
-```mermaid
-xychart-beta 
-	title "KDA Ratio pro Lane"
-	x-axis [ADC, Supp, Mid, Jungle, Top]
-	y-axis "K/D/A Ratio"
-	bar [3.23,8,0,0,3.3]
 ```
-
-### Win-Loss pro Lane
 
 ```mermaid
 ---
@@ -69,6 +60,25 @@ config:
     height: 250
 ---
 radar-beta
+  title KDA Ratio pro Lane
+  axis a["ADC"], s["Support"], m["Mid"], j["Jungle"], t["Top"]
+  curve a["Ratio"]{3.23, 8,  0, 0, 3.3}
+
+  max 10
+  min 0
+``` 
+
+
+
+```mermaid
+---
+config:
+  radar:
+    width: 250
+    height: 250
+---
+radar-beta
+  title Win-Loss pro Lane
   axis a["ADC"], s["Supp"], m["Mid"], j["Jungle"], t["Top"]
   curve w["Win"]{7, 2, 0, 0, 1}
   curve l["Loss"]{3, 0, 1, 0, 0}
@@ -76,6 +86,8 @@ radar-beta
   max 7
   min 0
 ```
+
+</div>
 
 ### Champion-Verteilung pro Lane
 
