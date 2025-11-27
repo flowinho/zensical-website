@@ -41,7 +41,7 @@ $$
 
 |Lane  |Kill|Death|Assist|Ratio|Win|Loss|%   |
 |:-----|:--:|:---:|:----:|----:|:-:|:--:|:--:|
-|ADC   |69  |39   |66    |3.46 |6  |3   |66% |
+|ADC   |77  |47   |75    |3.23 |7  |3   |70% |
 |Supp  |0   |2    |16    |8.0  |1  |0   |100%|
 |Mid   |2   |6    |6     |1.4  |0  |1   |0%  |
 |Jungle|0   |0    |0     |0.0  |0  |0   |0%  |
@@ -55,7 +55,7 @@ $$
 
 ```mermaid
 pie 
-    "ADC" : 8
+    "ADC" : 9
     "Mid" : 1
     "Supp" : 1
 ```
@@ -69,11 +69,11 @@ config:
 ---
 radar-beta
   axis k["Kills"], d["Deaths"], a["Assists"]
-  curve a["ADC"]{69, 39, 66}
+  curve a["ADC"]{77, 47, 65}
   curve m["Mid"]{2, 6, 6}
   curve s["Supp"]{0, 2, 16}
 
-  max 70
+  max 80
   min 0
 ``` 
 </div>
@@ -107,8 +107,8 @@ config:
 ---
 radar-beta
   axis a["ADC"], s["Supp"], m["Mid"], j["Jungle"], t["Top"]
-  curve w["Win"]{6, 2, 0, 0, 0}
-  curve l["Loss"]{2, 0, 1, 0, 0}
+  curve w["Win"]{7, 2, 0, 0, 0}
+  curve l["Loss"]{3, 0, 1, 0, 0}
 
   max 6
   min 0
@@ -119,7 +119,7 @@ radar-beta
 ```mermaid
 sankey-beta
   ADC, Caitlyn, 6
-  ADC, Ezreal, 3
+  ADC, Ezreal, 4
   Mid, Kayle, 1
   Supp, Lux, 1
 ``` 
