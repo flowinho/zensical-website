@@ -22,16 +22,6 @@ hide:
 
 <div class="grid" markdown>
 
-
-```mermaid
-pie 
-    title Lane-Verteilung alle Ranked Games
-    "ADC" : 9
-    "Mid" : 1
-    "Supp" : 1
-    "Top" : 1
-```
-
 ```mermaid
 ---
 config:
@@ -85,6 +75,15 @@ radar-beta
 
   max 7
   min 0
+```
+
+```mermaid
+pie 
+    title Lane-Verteilung alle Ranked Games
+    "ADC" : 9
+    "Mid" : 1
+    "Supp" : 1
+    "Top" : 1
 ```
 
 </div>
