@@ -45,7 +45,7 @@ $$
 |Supp  |0   |2    |16    |8.0  |1  |0   |100%|
 |Mid   |2   |6    |6     |1.4  |0  |1   |0%  |
 |Jungle|0   |0    |0     |0.0  |0  |0   |0%  |
-|Top   |0   |0    |0     |0.0  |0  |0   |0%  |
+|Top   |7   |3    |3     |3.3  |1  |0   |100%  |
 
 
 ### Stats pro Lane
@@ -58,6 +58,7 @@ pie
     "ADC" : 9
     "Mid" : 1
     "Supp" : 1
+    "Top" : 1
 ```
 
 ```mermaid
@@ -69,9 +70,10 @@ config:
 ---
 radar-beta
   axis k["Kills"], d["Deaths"], a["Assists"]
-  curve a["ADC"]{77, 47, 65}
-  curve m["Mid"]{2, 6, 6}
-  curve s["Supp"]{0, 2, 16}
+  curve a["ADC"]{77, 47,  65}
+  curve m["Mid"]{2,   6,  6}
+  curve s["Supp"]{0,  2,  16}
+  curve t["Top"]{7,   3,  3}
 
   max 80
   min 0
@@ -93,7 +95,7 @@ gantt
     section Jungle
     0    : 0, 0
     section Top
-    0    : 0, 0
+    3    : 0, 3
 ```
 
 ### Win-Loss pro Lane
@@ -107,10 +109,10 @@ config:
 ---
 radar-beta
   axis a["ADC"], s["Supp"], m["Mid"], j["Jungle"], t["Top"]
-  curve w["Win"]{7, 2, 0, 0, 0}
+  curve w["Win"]{7, 2, 0, 0, 1}
   curve l["Loss"]{3, 0, 1, 0, 0}
 
-  max 6
+  max 7
   min 0
 ```
 
@@ -122,5 +124,5 @@ sankey-beta
   ADC, Ezreal, 4
   Mid, Kayle, 1
   Supp, Lux, 1
+  Top, Kayle, 1
 ``` 
-
