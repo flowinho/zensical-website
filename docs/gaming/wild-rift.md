@@ -6,12 +6,16 @@ hide:
 adc:
   kills: 77
   deaths: 47
-  assists: 75 
+  assists: 75
+adckills: 77
 ---
 
 Das ist ein Test.
 
 {% page.meta.adc.kills %}
+{% page.meta.adckills %}
+
+D
 
 ```mermaid
 pie
