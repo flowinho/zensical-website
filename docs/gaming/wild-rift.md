@@ -2,8 +2,19 @@
 title: "LoL: Wild Rift"
 icon: lucide/swords
 hide:
-- footer
+  - footer
+adc:
+  - kills: 77
+  - deaths: 47
+  - assists: 75 
 ---
+
+```mermaid
+pie
+  "Kills" : {% page.meta.adc.kills %}
+  "Deaths" : {% page.meta.adc.deaths %}
+  "Assists" : {% page.meta.adc.assists %}
+```
 
 ## Wild Rift Ranked Season 19
 
