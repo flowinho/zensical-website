@@ -3,11 +3,15 @@ title: "LoL: Wild Rift"
 icon: lucide/swords
 hide:
   - footer
-adc:
+- adc:
   - kills: 77
   - deaths: 47
   - assists: 75 
 ---
+
+Das ist ein Test.
+
+{% page.meta.adc.kills %}
 
 ```mermaid
 pie
